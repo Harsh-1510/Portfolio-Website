@@ -1,0 +1,93 @@
+{
+    "projects": [
+        {
+            "id": "1",
+            "src": "./img/Amazon.png",
+            "title": "Amazon Clone",
+            "description": "Developed a user-friendly Amazon clone with MERN Stack, offering seamless shopping experiences, cart management, order processing, and secure user authentication.",
+            "github": "https://github.com/Harsh-1510/Amazon-Clone-MERN",
+            "live": ""
+        },
+        {
+            "id": "2",
+            "src": "./img/bloodbank.png",
+            "title": "Blood Bank Management System",
+            "description": "Led the development of a Blood Bank Management System, incorporating C++ for donor and recipient classes, file handling, and PL/SQL functions, while actively participating in MySQL database implementation.",
+            "github": "https://github.com/Harsh-1510/BLOOD-BANK-MANAGEMENT-SYSTEM"
+        },
+        {
+            "id": "3",
+            "src": "./img/chatapp.png",
+            "title": "ChatConnect",
+            "description": "Developed ChatConnect, a dynamic chat application utilizing React, Redux, Express.js, and MongoDB, offering real-time messaging, secure authentication, and dynamic theme switching.",
+            "github": "https://github.com/Harsh-1510/Chat-App",
+            "live": ""
+        }
+    ],
+    "skills" : [
+        {
+            "id": "1",
+            "name": "Frontend Development",
+            "skill": [ 
+                {
+                    "name":"HTML",
+                    "exposure": "Experienced"
+                },
+                {
+                    "name":"CSS",
+                    "exposure": "Experienced"
+                },
+                {
+                    "name":"Tailwind",
+                    "exposure":"Intermediate"
+                },
+                {
+                    "name":"Material UI",
+                    "exposure":"Basic"
+                },
+                {
+                    "name":"Javascript",
+                    "exposure": "Experienced"
+                },
+                {
+                    "name":"ReactJS",
+                    "exposure":"Intermediate"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Backend Development",
+            "skill": [ 
+                {
+                    "name":"ExpressJS",
+                    "exposure": "Intermediate"
+                },
+                {
+                    "name":"NodeJS",
+                    "exposure": "Experienced"
+                },
+                {
+                    "name":"MongoDB",
+                    "exposure": "Experienced"
+                },
+                {
+                    "name":"Linux",
+                    "exposure": "Intermediate"
+                },
+                {
+                    "name":"SQL",
+                    "exposure": "Intermediate"
+                },
+                {
+                    "name":"MySQL",
+                    "exposure": "Intermediate"
+                },
+                {
+                    "name":"Git",
+                    "exposure": "Intermediate"
+                }
+            ]
+        }
+    ]
+}
